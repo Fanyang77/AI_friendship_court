@@ -1,0 +1,7 @@
+cd C:\Users\potat\OneDrive\Desktop\portfolio website\AI_friendship_court
+py -m streamlit run friendship_court.py
+
+
+I invited Jamie over for dinner last weekend and spent hours cooking. They showed up almost 40 minutes late without texting. When they finally arrived, they said traffic was bad and acted like it wasn’t a big deal. I felt really disrespected — it made me feel like my time and effort didn’t matter. I tried to still be nice, but inside I was annoyed the whole night. I wish they had at least warned me or apologized properly.
+
+I was honestly really stressed that day. I left late because work ran longer than expected, then hit traffic. I thought if I texted while driving it would be unsafe, and by the time I parked I was already almost there. I figured being a bit late wasn’t a huge issue. When I arrived, Alex seemed cold and distant, and it made me feel guilty and uncomfortable. I wish they had just told me directly that they were upset instead of pretending everything was fine.
